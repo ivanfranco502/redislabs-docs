@@ -53,7 +53,7 @@ connections, 9443 for REST API connections, and port 12000 open for redis client
 You can publish other [ports]({{< relref "/rs/administering/designing-production/networking/port-configurations.md" >}})
 with `-p <host_port>:<container_port>`.
 
-<!-- Also in quick-start.md -->
+<!-- Also in quickstart.md -->
 ## Step 3: Setup a Cluster
 
 1. In the web browser on the host machine, go to https://localhost:8443 to see
